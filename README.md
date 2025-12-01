@@ -1,6 +1,6 @@
 
-![GitLab](https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png)
-![Jira](https://www.atlassian.com/dam/jcr:e348b8a8-5b5b-40ee-b0d5-ab2a83e5dfdf/jira%20core%20-%20blue.png)
+![Jira GitLab Integration](https://images.prismic.io/hatica/ef0958a6-c5a5-4ebc-9571-c940dbb95526_Jira+GitLab+Integration+Guide+You+Should+Not+Miss.png?auto=compress,format&rect=0,0,2400,1534&w=1200&h=767)
+
 
 # Интеграция Jira и GitLab
 
