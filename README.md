@@ -318,14 +318,6 @@ git commit -m "Fixes PROJ-123, PROJ-456, PROJ-789: Исправить баг"
 
 ## Решение проблем
 
-### "Invalid URL" при подключении
-
-Решение:
-```
-Правильно:   https://yourcompany.atlassian.net
-Неправильно: https://yourcompany.atlassian.net/jira
-```
-
 ### "Unauthorized" ошибка авторизации
 
 Решение:
@@ -354,7 +346,3 @@ git commit -m "Fixes PROJ-123, PROJ-456, PROJ-789: Исправить баг"
 - Полная видимость CI/CD
 - Улучшенная командная работа
 
----
-
-**Последнее обновление**: 2024-12-01
-**Версия документации**: 1.0
