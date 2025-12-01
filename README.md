@@ -1,3 +1,5 @@
+[![Alt text](docs/images/image.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarketplace.atlassian.com%2Fapps%2F1212989%2Fgitlab-connector-for-jira&psig=AOvVaw1MYRPxHWRHiccJL3P0ITxt&ust=1764667319880000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLjE5ZmInJEDFQAAAAAdAAAAABAE)
+
 # Интеграция Jira и GitLab
 
 Полная документация по настройке и использованию интеграции между Jira и GitLab для синхронизации разработки в реальном времени.
